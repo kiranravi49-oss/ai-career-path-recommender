@@ -1,0 +1,10 @@
+current_role,experience_level,skills,next_role,recommended_skills
+Project Manager,mid,stakeholder management;delivery;agile,Program Manager,portfolio management;strategic planning
+Project Manager,mid,delivery;client management;budgeting,Product Manager,product thinking;roadmapping;analytics
+Project Manager,senior,leadership;delivery;governance,Business Architect,business strategy;enterprise architecture
+Business Analyst,mid,requirements;analysis;communication,Product Owner,agile;backlog management;user stories
+Business Analyst,mid,data analysis;sql;reporting,Data Analyst,python;data visualization;statistics
+Software Engineer,mid,java;apis;backend,Tech Lead,system design;leadership;architecture
+Software Engineer,mid,python;data;ml,ML Engineer,deep learning;model deployment;ai systems
+Tester,mid,manual testing;automation,SDET,automation frameworks;coding
+Tester,mid,qa;process;compliance,Quality Manager,quality strategy;audit
